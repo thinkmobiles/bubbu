@@ -1,0 +1,9 @@
+.nav-collapse, .nav-collapse.collapse {display:none!important;visibility:hidden!Important; overflow:visible!important; }
+
+
+.navbar-inverse .navbar-inner { color:#333333!important; border: none; z-index:6000!important; background: transparent;
+    -ms-filter: none!important;  filter:none!important; 
+    zoom: 1;  background-image:none!important;}
+
+.btn-navbar {display:none!important; visibilty:hidden!important;}
+.fixedtab {display:none!important; visibility:hidden!important;}

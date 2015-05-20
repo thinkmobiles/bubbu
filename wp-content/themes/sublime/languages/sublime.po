@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sublime\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-09 14:33-0800\n"
+"PO-Revision-Date: 2013-12-09 14:33-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below."
+msgstr ""
+
+#: ../archive.php:32 ../archive.php:138 ../category.php:32 ../category.php:137
+#: ../index.php:50 ../index.php:167 ../page-blog.php:55 ../page-blog.php:174
+#: ../search.php:30 ../search.php:143 ../single.php:35 ../single.php:129
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../archive.php:83 ../archive.php:166 ../category.php:82 ../category.php:165
+#: ../index.php:98 ../index.php:194 ../page-blog.php:104 ../page-blog.php:201
+#: ../search.php:88 ../search.php:180
+msgid " &larr;"
+msgstr ""
+
+#: ../archive.php:84 ../archive.php:167 ../category.php:83 ../category.php:166
+#: ../index.php:99 ../index.php:195 ../page-blog.php:105 ../page-blog.php:202
+#: ../search.php:89 ../search.php:181
+msgid " &rarr;"
+msgstr ""
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: ../comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Newer Comments"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:114
+msgid "Sub Menu"
+msgstr ""
+
+#: ../functions.php:236 ../functions.php:237 ../functions.php:238
+msgid "portfolio"
+msgstr ""
+
+#: ../functions.php:239
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:240
+msgid "Add New portfolio"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Edit portfolio"
+msgstr ""
+
+#: ../functions.php:242
+msgid "New portfolio"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Search portfolio Tags"
+msgstr ""
+
+#: ../functions.php:289
+msgid "All portfolio Tags"
+msgstr ""
+
+#: ../functions.php:290
+msgid "Edit portfolio Tag"
+msgstr ""
+
+#: ../functions.php:291
+msgid "Update portfolio Tag"
+msgstr ""
+
+#: ../functions.php:292
+msgid "Add New portfolio Tag"
+msgstr ""
+
+#: ../functions.php:293
+msgid "New portfolio Tag Name"
+msgstr ""
+
+#: ../functions.php:294
+msgid "portfolio Tags"
+msgstr ""
+
+#: ../functions.php:545
+msgid "Search for:"
+msgstr ""
+
+#: ../page-sitemap.php:26
+msgid "Archive By Day"
+msgstr ""
+
+#: ../page-sitemap.php:36
+msgid "Archive By Month"
+msgstr ""
+
+#: ../page-sitemap.php:46
+msgid "Archive By Year"
+msgstr ""
+
+#: ../page-sitemap.php:57
+msgid "Latest Posts"
+msgstr ""
+
+#: ../page-sitemap.php:67 ../admin/customizer/customizer.php:96
+msgid "Pages"
+msgstr ""
+
+#: ../page-sitemap.php:77
+msgid "Categories"
+msgstr ""
+
+#: ../search.php:68 ../search.php:160
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:71 ../search.php:163
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../single-portfolio.php:62
+msgid "<span>Next:</span> %title"
+msgstr ""
+
+#: ../single-portfolio.php:65
+msgid "<span>Previous:</span> %title"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:11
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:20
+msgid "Logo Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:31
+msgid "Favicon Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:47
+msgid "Highlight Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:61
+msgid "Menu Bar Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:75
+msgid "Menu Font Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:89
+msgid "Subpage Header Color"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:107
+msgid "Homepage Banner Heading (under slider)"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:120
+msgid "Banner Subheading"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:131
+msgid "Header Image Upload"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:143
+msgid "Slider Slug"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:155
+msgid "Gallery Columns"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:160
+msgid "Two"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:161
+msgid "Three"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:162
+msgid "Four"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:168
+msgid "Sidebar"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:177
+msgid "Global Sidebar Setting"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:182
+msgid "Sidebar on left"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:183
+msgid "Sidebar on right"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:192
+msgid "Typography"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:202
+msgid "Select a Font"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:213
+msgid "Footer"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:223
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:231
+msgid "Social Settings"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:241
+msgid "Twitter username"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:254
+msgid "Facebook username"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:267
+msgid "Linkedin url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:279
+msgid "Pinterest url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:291
+msgid "Google1 url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:303
+msgid "Github url"
+msgstr ""
+
+#: ../admin/customizer/customizer.php:315
+msgid "RSS feed"
+msgstr ""
+
+#: ../admin/metabox/init.php:633
+msgid "Please Try Again"
+msgstr ""
+
+#: ../admin/metabox/init.php:650
+msgid "Remove Embed"
+msgstr ""
+
+#: ../admin/metabox/init.php:656
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../admin/page-builder/blocks/banner-block.php:46
+msgid "Display Button"
+msgstr ""
+
+#: ../admin/page-builder/blocks/banner-block.php:66
+#: ../admin/page-builder/blocks/banner-block.php:67
+#: ../admin/page-builder/blocks/contact-block.php:67
+#: ../admin/page-builder/blocks/features-block.php:53
+#: ../admin/page-builder/blocks/features-block.php:55
+#: ../admin/page-builder/blocks/heading-block.php:43
+#: ../admin/page-builder/blocks/image-block.php:42
+#: ../admin/page-builder/blocks/pricetable-block.php:90
+#: ../admin/page-builder/blocks/pricetable-block.php:97
+#: ../admin/page-builder/blocks/pricetable-block.php:103
+#: ../admin/page-builder/blocks/progressbar-block.php:52
+#: ../admin/page-builder/blocks/team-block.php:114
+#: ../admin/page-builder/blocks/team-block.php:116
+#: ../admin/page-builder/blocks/team-block.php:118
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:23
+msgid ""
+"Sorry, this block requires the <a href=\"http://wordpress.org/extend/plugins/"
+"contact-form-7/\">Contact Form 7</a> plugin to be installed & activated."
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:39
+msgid ""
+"You do not currently have any contact form setup. Please create a contact "
+"form before setting up this block"
+msgstr ""
+
+#: ../admin/page-builder/blocks/contact-block.php:41
+msgid "Setup contact form"
+msgstr ""
+
+#: ../admin/page-builder/blocks/pricetable-block.php:73
+msgid "Feature this column?"
+msgstr ""
+
+#: ../admin/page-builder/blocks/stretchbanner-block.php:52
+msgid "Parallax Background Effect?"
+msgstr ""
+
+#: ../admin/page-builder/blocks/twitter-block.php:44
+msgid "Pin to Footer? (must be last item on page)"
+msgstr ""
+
+#: ../admin/sidebars/sbars.php:35 ../admin/sidebars/sbars.php:36
+#: ../admin/sidebars/sbars.php:37
+msgid "Dynamic Sidebar"
+msgstr ""
+
+#: ../admin/sidebars/sbars.php:52
+msgid "Dynamic Sidebar Name"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:18
+msgid "A widget that displays Flickr photos"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:80
+msgid "Title:"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:86
+msgid "Description:"
+msgstr ""
+
+#: ../admin/widgets/flickr/flickr.php:92
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:164
+#: ../includes/plugins/plugin.php:98
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:165
+#: ../includes/plugins/plugin.php:99
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:166
+#: ../includes/plugins/plugin.php:100
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:178
+#: ../includes/plugins/class-tgm-plugin-activation.php:490
+#: ../includes/plugins/plugin.php:112
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:179
+#: ../includes/plugins/class-tgm-plugin-activation.php:1846
+#: ../includes/plugins/plugin.php:113
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:517
+#: ../includes/plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1956
+#: ../includes/plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1956
+#: ../includes/plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/plugins/plugin.php:101
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/plugins/plugin.php:114
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/tags-comments/tags.php:36 ../includes/tags-comments/tags.php:63
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/tags-comments/tags.php:61
+msgid "Pingback:"
+msgstr ""
