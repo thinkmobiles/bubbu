@@ -1086,3 +1086,60 @@ transform:translateY(0)
 .rev_slider {
 	overflow:hidden;
 }
+
+
+@media screen and (max-width: 770px){
+	.testimonials .t-image{
+		width:180px !important;
+		margin:0 auto;
+		margin-bottom:30px;
+	}
+}
+.header .container {
+  margin: 0px 20px;
+  width:auto;
+}
+.navbar .btn-navbar {
+	display:block;
+}
+.nav-collapse .nav>li {
+  float: none;
+}
+.nav-collapse, .nav-collapse.collapse {
+  height: 0;
+  overflow: hidden;
+}
+.nav {
+  width: 100%;
+}
+.navbar .nav {
+  margin: 0px;
+}
+.nav-collapse .nav {
+  background: #222222;
+}
+
+.navbar-inverse .nav-collapse .nav>li>a, .navbar-inverse .nav-collapse .dropdown-menu a {
+  color: #999;
+}
+.navbar-inverse .nav-collapse .nav>li>a:hover, .navbar-inverse .nav-collapse .nav>li>a:focus, .navbar-inverse .nav-collapse .dropdown-menu a:hover, .navbar-inverse .nav-collapse .dropdown-menu a:focus {
+  background-color: #111;
+}
+
+.navbar-inverse .nav .active>a, .navbar-inverse .nav .active>a:hover, .navbar-inverse .nav .active>a:focus {
+  background-color: #111;
+}
+.header{
+
+}
+.header .inner{
+	margin: 0px 20px;
+	position:relative;
+
+
+}
+.header .container{
+	margin: 0px;
+width:100%;
+  position: absolute;
+}
