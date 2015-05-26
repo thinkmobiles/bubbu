@@ -182,9 +182,6 @@ require_once(sublime_ADMIN . '/customizer/google-fonts.php');
 				'sidebar-left'  => __( 'Sidebar on left', 'sublime' ),
 				'sidebar-right' => __( 'Sidebar on right', 'sublime' )
 			),
-		
-		
-		
 	) ) );
 	
 	//Typography
@@ -207,6 +204,59 @@ require_once(sublime_ADMIN . '/customizer/google-fonts.php');
             $googlefonts
             ,
 	) ) );
+    
+    
+    //Download button
+	$wp_customize->add_section( 'sublime_theme_customizer_downloads', array(
+		'title' => __( 'Download button', 'sublime' ),
+		'priority' => 600
+	) );
+    
+    $wp_customize->add_setting( 'android_url', array(
+		'default' => 'http://',
+		'transport'=>'postMessage'
+	) );
+	
+	$wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'android_url', array(
+		'label'   => __( 'Android url', 'sublime' ),
+		'section' => 'sublime_theme_customizer_downloads',
+		'settings'   => 'android_url',
+		
+	) ) );
+    
+    $wp_customize->add_setting( 'android_image', array( 
+	) );
+	
+	$wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'android_image', array(
+		'label' => __( 'Android Upload', 'sublime' ),
+		'section' => 'sublime_theme_customizer_downloads',
+		'settings' => 'android_image'
+		
+	) ) );
+    
+    $wp_customize->add_setting( 'ios_url', array(
+		'default' => 'http://',
+		'transport'=>'postMessage'
+	) );
+	
+	$wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'ios_url', array(
+		'label'   => __( 'iOS url', 'sublime' ),
+		'section' => 'sublime_theme_customizer_downloads',
+		'settings'   => 'ios_url',
+		
+	) ) );
+    
+    $wp_customize->add_setting( 'ios_image', array( 
+	) );
+	
+	$wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, 'ios_image', array(
+		'label' => __( 'iOS Upload', 'sublime' ),
+		'section' => 'sublime_theme_customizer_downloads',
+		'settings' => 'ios_image'
+		
+	) ) );
+    
+	
 	
 	//Footer
 	$wp_customize->add_section( 'sublime_theme_customizer_footer', array(

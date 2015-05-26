@@ -469,9 +469,20 @@ img.tp-slider-alternative-image	{	width:100%; height:auto;}
 	/*-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";		-moz-opacity: 0;	-khtml-opacity: 0;	opacity: 0; */
 	position:absolute;
 	-webkit-font-smoothing: antialiased !important;
+        
 }
 
-
+.tp-simpleresponsive .tp-caption.sfl, .tp-simpleresponsive .tp-caption.sfr
+{
+    bottom: 0px;
+    top: inherit !important;
+}
+@media screen and (max-width: 1200px) {
+    .tp-simpleresponsive .tp-caption.sfl, .tp-simpleresponsive .tp-caption.sfr
+{
+display:none;
+}
+}
 /******************************
 	-	SHADOWS		-
 ******************************/
@@ -1256,7 +1267,10 @@ background: transparent;
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
 zoom: 1;
 }
-
+.tp-caption.tp-fade.start a img {
+  min-width: 346px !important;
+  height: 127px !important;
+}
 
 
 /*  CAPTION SLIDELINK   **/

@@ -9,11 +9,12 @@ Template Name: Home Page
 
 <div class="container home-main">
 <div class="banner-home">
-  <div class="container box">
+  <div class="contai ner box">
     <h3> <?php echo $banner; ?></h3>
     <h2> <small><?php echo $banner_sub; ?></small></h2>
   </div>
 </div>
+   
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 <?php the_content(); ?>
 <?php endwhile; ?>

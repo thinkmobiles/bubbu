@@ -32,13 +32,15 @@
 
       
         <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <?php $logo  = get_theme_mod('logo_image'); 
+        
+        <?php /*$logo  = get_theme_mod('logo_image'); 
 		if(!empty($logo)) { ?>
         <a class="brand" href="<?php echo home_url(); ?>"> <img class="a" src="<?php echo $logo;?>" alt=""> </a>
         <?php }
 		 else { ?>
         <div class="logo-text"> </div>
-        <?php }?>
+        <?php }*/?>
+        
         <div class="nav">
           <?php  wp_nav_menu( array( 'walker' => new sublime_walker_nav_menu(), 'theme_location' => 'menu-main', 'container_class' => 'nav-collapse', 'menu_class' => 'nav', 'menu_id' => 'main-menu')); ?>
         </div>

@@ -928,3 +928,28 @@ transform:translateY(0)
 .logo-text{margin-top:-4px;}
 .home-main {margin-top:40px!important;}
 .navbar .btn, .navbar .btn-group {margin-top:10px;}
+
+.brandList{
+    width: 730px;
+    margin: -580px auto 0 auto;
+    z-index: 20;
+    position: relative;
+}
+.brandList .brand{
+    display:block;
+}
+
+.brandList .left{
+    float:left;
+}
+.brandList .center{
+    margin: 0 auto;
+    text-align: center;
+}
+.brandList .right{
+    float:right;
+}
+.brandList .title{
+    margin-top:50px;
+    margin-bottom: 30px;
+}
