@@ -3,13 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/bubbubbubbions/index.php</file>
-            <file>file:/var/www/html/bubbubbubbions/500.php</file>
-            <file>file:/var/www/html/bubbubbubbions/wp-config.php</file>
-            <file>file:/var/www/html/bubbubbubbions/backup-1425294219-wp-config.php</file>
-            <file>file:/var/www/html/bubbubbubbions/401.shtml</file>
-            <file>file:/var/www/html/bubbubbubbions/wp-settings.php</file>
-            <file>file:/var/www/html/bubbubbubbions/.htaccessasd</file>
+            <file>file:/var/www/html/bubbubbubbions/wp-content/themes/sublime/js/plugins.js</file>
+            <file>file:/var/www/html/bubbubbubbions/wp-content/themes/sublime/header.php</file>
+            <file>file:/var/www/html/bubbubbubbions/wp-content/backup-1425294219-themes/sublime/functions.php</file>
+            <file>file:/var/www/html/bubbubbubbions/wp-content/themes/sublime/header-homepage.php</file>
+            <file>file:/var/www/html/bubbubbubbions/wp-content/themes/sublime/css/bootstrap-responsive.min.css</file>
         </group>
     </open-files>
 </project-private>
