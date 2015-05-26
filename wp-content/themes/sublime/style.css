@@ -930,17 +930,19 @@ transform:translateY(0)
 .navbar .btn, .navbar .btn-group {margin-top:10px;}
 
 .brandList{
-    width: 730px;
+    width: 98%;
+	max-width:730px;
     margin: -580px auto 0 auto;
     z-index: 20;
     position: relative;
 }
 .brandList .brand{
     display:block;
-}
 
+}
 .brandList .left{
     float:left;
+	width:50%;
 }
 .brandList .center{
     margin: 0 auto;
@@ -948,8 +950,139 @@ transform:translateY(0)
 }
 .brandList .right{
     float:right;
+	width:50%;
 }
 .brandList .title{
     margin-top:50px;
     margin-bottom: 30px;
+	width:35%;
+	//253
+}
+.brandList .left img , .brandList .right img{
+	width:98%;
+
+	//354 346
+}
+
+
+.brandList .brand.center img{
+	width:56%;
+	//412
+}
+@media screen and (min-width: 250px){
+	.rev_slider ,#slider{
+		height:290px !important;
+	}
+	.brandList {
+		height:290px !important;
+		margin-top:-270px;
+	}
+
+}
+@media screen and (min-width: 300px){
+	.rev_slider ,#slider{
+		height:315px !important;
+	}
+	.brandList {
+		height:310px !important;
+		margin-top:-300px;
+	}
+
+}
+@media screen and (min-width: 350px){
+	.rev_slider,#slider{
+		height:345px !important;
+	}
+	.brandList {
+		height:330px !important;
+		margin-top:-330px;
+	}
+
+}
+@media screen and (min-width: 400px){
+	.rev_slider,#slider {
+		height:375px !important;
+	}
+	.brandList {
+		height:350px !important;
+		margin-top:-350px;
+	}
+
+}
+@media screen and (min-width: 450px){
+	.rev_slider,#slider{
+		height:415px !important;
+	}
+	.brandList {
+		height:380px !important;
+		margin-top:-388px;
+	}
+
+}
+@media screen and (min-width: 500px){
+	.rev_slider,#slider {
+		height:455px !important;
+	}
+	.brandList {
+		height:430px !important;
+		margin-top:-430px;
+	}
+
+}
+@media screen and (min-width: 555px){
+	.rev_slider,#slider {
+		height:485px !important;
+	}
+	.brandList {
+		height:450px !important;
+		margin-top:-460px;
+	}
+
+}
+@media screen and (min-width: 605px){
+	.rev_slider,#slider {
+		height:505px !important;
+	}
+	.brandList {
+		height:480px !important;
+		margin-top:-490px;
+	}
+
+}
+
+@media screen and (min-width: 655px){
+	.rev_slider,#slider {
+		height:525px !important;
+	}
+	.brandList {
+		height:515px !important;
+		margin-top:-520px;
+	}
+
+}
+
+
+@media screen and (min-width: 705px){
+	.rev_slider,#slider {
+		height:575px !important;
+	}
+	.brandList {
+		height:575px !important;
+		margin-top:-570px;
+	}
+
+}
+
+@media screen and (min-width: 785px){
+	.rev_slider,#slider {
+		height:595px !important;
+	}
+	.brandList {
+		height:595px !important;
+		margin-top:-580px;
+	}
+}
+
+.rev_slider {
+	overflow:hidden;
 }
