@@ -1146,10 +1146,13 @@ width:100%;
 
 .scroll-wrapper .nav{
 	width:auto;
+	margin-bottom: -4px;
 
 }
 .scroll-wrapper .nav li{
 	border-left:2px solid silver;
+float:left;
+margin-left:3px;
 
 }
 
