@@ -53,13 +53,19 @@
                 <?php } ?>
             </div>
         </ul>
-        <h5><span class="scroll-wrapper"><a id="back-to-top" href="#"> <i class="icon-arrow-up"></i>
+        <h5>
+            <span class="scroll-wrapper">
+                <a id="back-to-top" href="#"> <i class="icon-arrow-up"></i>
                     <?php $copyright = get_theme_mod('copyright_text'); ?>
-                </a><small><?php echo $copyright; ?></small></span></h5>
-        <?php wp_nav_menu(array('walker' => new sublime_walker_nav_menu(), 'theme_location' => 'menu-main', 'container_class' => 'nav-collapse', 'menu_class' => 'nav', 'menu_id' => 'main-menu')); ?>
-        <div class="nav">
-            <?php wp_nav_menu(array('walker' => new sublime_walker_nav_menu(), 'theme_location' => 'menu-footer', 'menu_class' => 'nav', 'menu_id' => 'footer-menu')); ?>
-        </div>
+                </a>
+                <small>
+                    <?php echo $copyright; ?>
+                    <div class="nav">
+                        <?php wp_nav_menu(array('walker' => new sublime_walker_nav_menu(), 'theme_location' => 'menu-footer', 'menu_class' => 'nav', 'menu_id' => 'footer-menu')); ?>
+                    </div>
+                </small>
+            </span>
+        </h5>
     </div>
 </div>
 </div>
