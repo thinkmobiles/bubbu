@@ -953,7 +953,7 @@ transform:translateY(0)
 	width:50%;
 }
 .brandList .title{
-    margin-top:50px;
+    margin-top:25px;
     margin-bottom: 30px;
 	width:35%;
 	//253
@@ -966,97 +966,97 @@ transform:translateY(0)
 
 
 .brandList .brand.center img{
-	width:56%;
+	width:76%;
 	//412
 }
 @media screen and (min-width: 250px){
 	.rev_slider ,#slider{
-		height:290px !important;
+		height:360px !important;
 	}
 	.brandList {
 		height:290px !important;
-		margin-top:-270px;
+		margin-top:-350px;
 	}
 
 }
 @media screen and (min-width: 300px){
 	.rev_slider ,#slider{
-		height:315px !important;
+		height:335px !important;
 	}
 	.brandList {
 		height:310px !important;
-		margin-top:-300px;
+		margin-top:-320px;
 	}
 
 }
 @media screen and (min-width: 350px){
 	.rev_slider,#slider{
-		height:345px !important;
+		height:385px !important;
 	}
 	.brandList {
 		height:330px !important;
-		margin-top:-330px;
+		margin-top:-350px;
 	}
 
 }
 @media screen and (min-width: 400px){
 	.rev_slider,#slider {
-		height:375px !important;
+		height:405px !important;
 	}
 	.brandList {
 		height:350px !important;
-		margin-top:-350px;
+		margin-top:-380px;
 	}
 
 }
 @media screen and (min-width: 450px){
 	.rev_slider,#slider{
-		height:415px !important;
+		height:455px !important;
 	}
 	.brandList {
 		height:380px !important;
-		margin-top:-388px;
+		margin-top:-428px;
 	}
 
 }
 @media screen and (min-width: 500px){
 	.rev_slider,#slider {
-		height:455px !important;
+		height:505px !important;
 	}
 	.brandList {
 		height:430px !important;
-		margin-top:-430px;
+		margin-top:-480px;
 	}
 
 }
 @media screen and (min-width: 555px){
 	.rev_slider,#slider {
-		height:485px !important;
+		height:565px !important;
 	}
 	.brandList {
 		height:450px !important;
-		margin-top:-460px;
+		margin-top:-540px;
 	}
 
 }
 @media screen and (min-width: 605px){
 	.rev_slider,#slider {
-		height:505px !important;
+		height:585px !important;
 	}
 	.brandList {
 		height:480px !important;
-		margin-top:-490px;
+		margin-top:-570px;
 	}
 
 }
 
 @media screen and (min-width: 655px){
 	.rev_slider,#slider {
-		height:525px !important;
+		height:605px !important;
 	}
 	.brandList {
 		height:515px !important;
-		margin-top:-520px;
+		margin-top:-600px;
 	}
 
 }
@@ -1064,22 +1064,22 @@ transform:translateY(0)
 
 @media screen and (min-width: 705px){
 	.rev_slider,#slider {
-		height:575px !important;
+		height:655px !important;
 	}
 	.brandList {
 		height:575px !important;
-		margin-top:-570px;
+		margin-top:-650px;
 	}
 
 }
 
 @media screen and (min-width: 785px){
 	.rev_slider,#slider {
-		height:595px !important;
+		height:665px !important;
 	}
 	.brandList {
 		height:595px !important;
-		margin-top:-580px;
+		margin-top:-650px;
 	}
 }
 
@@ -1142,4 +1142,21 @@ transform:translateY(0)
 	margin: 0px;
 width:100%;
   position: absolute;
+}
+
+.scroll-wrapper .nav{
+	width:auto;
+
+}
+.scroll-wrapper .nav li{
+	border-left:2px solid silver;
+
+}
+
+.scroll-wrapper .nav ul#footer-menu li{
+			line-height:15px;
+		}
+.with-left-border{
+	padding-left:3px;
+	border-left:2px solid silver;
 }
