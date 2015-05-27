@@ -111,7 +111,8 @@ function register_sublime_menus()
 {
     register_nav_menus(array(
         'menu-main' => __('Main Menu', 'sublime'),
-								'menu-sub' => __('Sub Menu', 'sublime')
+        'menu-sub' => __('Sub Menu', 'sublime'),        
+        'menu-footer' => __('Footer Menu', 'sublime')
     ));
 }
 
