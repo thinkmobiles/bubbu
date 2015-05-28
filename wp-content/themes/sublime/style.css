@@ -1172,3 +1172,6 @@ margin-left:3px;
 	  text-align:center;
   display: block;
 }
+.rev_slider_wrapper{
+	height:auto !important;
+}
