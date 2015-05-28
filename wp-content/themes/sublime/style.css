@@ -1075,16 +1075,17 @@ transform:translateY(0)
 
 @media screen and (min-width: 785px){
 	.rev_slider,#slider {
-		height:665px !important;
+		height:691px !important;
 	}
 	.brandList {
-		height:595px !important;
+		height:625px !important;
 		margin-top:-650px;
 	}
 }
 
 .rev_slider {
 	overflow:hidden;
+        max-height:none !important;
 }
 
 
